@@ -4,5 +4,14 @@
   "artist": "mao fabao",
   "author": "mao fabao",
   "cover": "https://t7.nhentai.net/galleries/1674892/cover.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "0",
+      "last_updated": "1666975741",
+      "groups": {
+        "san se fang": "https://nhentai.net/g/319115/"
+      }
+    }
+  }
 }
